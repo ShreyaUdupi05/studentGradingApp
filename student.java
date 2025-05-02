@@ -5,6 +5,7 @@ public class student {
         System.out.println("Name: John Doe");
         System.out.println("Age: 20");
         System.out.println("SSN: 987654675");
+        // kjhvigvihg jhg ihgvihj khbhj
     
 
     }
