@@ -3,7 +3,9 @@ public class student {
         System.out.println("Student Registration Form");
         System.out.println("Please enter your details below:");
         System.out.println("Name: John Doe");
-        System.out.println("Age: 20");  
+        System.out.println("Age: 20");
+        System.out.println("SSN: 987654675");
+    
 
     }
 }
